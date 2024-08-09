@@ -1,0 +1,14 @@
+PyYAML
+selenium
+pandas
+requests
+pytest
+jproperties
+hybrid
+opencv-python
+numpy
+pyscreenrec
+pillow
+Appium-Python-Client
+allure-pytest
+allure-python-commons

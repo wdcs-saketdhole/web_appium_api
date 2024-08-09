@@ -1,0 +1,37 @@
+default:
+  url: "https://example.com"
+  browser: "chrome"
+
+androidWeb_config:
+  platformVersion: "14"
+  udid: "RZCW11EWQFJ"
+
+isoWeb_config:
+  platformVersion: "15"
+  udid: ""
+
+androidApp_config:
+  platformVersion: "14"
+  udid: ""
+
+isoApp_config:
+  platformVersion: "15"
+  udid: ""
+
+now_medical_admin:
+  url: "https://admin.nowmedical.com/public/admin/"
+  username: "divyesh.patel@codezeros.com"
+  password: "Test@3333"
+
+now_medical:
+  url: "https://nowmedical.com/"
+  doctor_patient: "d"
+  username: "divyesh.patel@codezeros.com"
+  password: "Test@7777"
+
+inHouseWebsites:
+  curl: "https://www.codezeros.com/contact"
+
+ChatWit:
+  url: "https://preprodweb.chatwit.ai"
+  curl: 'https://webcluesinfotech.com/'
